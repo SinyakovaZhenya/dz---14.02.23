@@ -1,0 +1,21 @@
+.new-foto {
+	margin: 10px auto;
+	padding: 5px;
+	width: 400px;
+	max-width: 100%;
+	height: 450px;
+	border-radius: 10px;
+	text-align: center;
+	background-color: #ebefed;
+}
+
+.new-foto button {
+	margin: 3px;
+	padding: 5px 10px;
+	width: 300px;
+	font: inherit;
+	border: 1px solid #236846;
+	border-radius: 10px;
+	background-color: #236846;
+	color: #fff;
+}
